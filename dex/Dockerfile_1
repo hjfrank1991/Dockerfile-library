@@ -1,0 +1,2 @@
+FROM gcr.io/arrikto/kubeflow/oidc-authservice:v0.3
+MAINTAINER zz<zhongzheng0813@163.com>
