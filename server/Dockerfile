@@ -1,0 +1,2 @@
+FROM gcr.io/kfserving/storage-initializer:0.2.1
+MAINTAINER zz<zhongzheng0813@163.com>
