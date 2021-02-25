@@ -1,0 +1,2 @@
+FROM tensorflow/serving:1.13.0-gpu
+MAINTAINER zz<zhongzheng0813@163.com>
