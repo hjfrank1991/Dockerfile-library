@@ -1,2 +1,2 @@
-FROM github.com/tektoncd/pipeline/cmd/controller:latest
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:latest
 MAINTAINER zz<zhongzheng0813@163.com>
