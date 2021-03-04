@@ -1,0 +1,2 @@
+FROM katib/mxnet-mnist-example
+MAINTAINER sunway<sunway@admin.com>
