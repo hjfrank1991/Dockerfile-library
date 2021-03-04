@@ -1,0 +1,2 @@
+FROM docker pull gcr.io/kubeflow-ci/tf-mnist-with-summaries:1.0
+MAINTAINER sunway<sunway@admin.com>
