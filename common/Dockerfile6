@@ -1,0 +1,1 @@
+FROM gcr.io/arrikto/jupyter-kale:6f87224e-9f74f267
