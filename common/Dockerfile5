@@ -1,0 +1,5 @@
+FROM registry.cn-hangzhou.aliyuncs.com/frank_1991/kubeflow_new:tensorflow-2.1.0-notebook-cpu-1.0.0
+# Install Kale python package globally
+RUN pip install kubeflow-kale
+# Install Kale JupyterLab extension
+RUN jupyter labextension install kubeflow-kale-launcher
